@@ -1,2 +1,7 @@
-# SD-Lock-UI
-add Lock button on webUi. for comfortable mobile Ui
+## Lock-UI
+
+
+- custom extension for AUTOMATIC1111/stable-diffusion-webui
+
+### How to use.
+
